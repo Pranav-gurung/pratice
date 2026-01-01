@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 heloo welcome c-11
-=======
+
 heloo welcome c-10
->>>>>>> p2
+
 
